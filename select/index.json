@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "星野源 – Cube (Official Video)",
+  "base_artist": "星野源",
+  "createdAt": "2026-03-28T16:10:16.047988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星野源 – 恋 (Official Video)",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/01_星野源_–_恋_(Official_Video)_星野源.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Into the Sun feat. 星野源, Stephen Malkmus & Pi Ja Ma",
+      "artist": "Superorganism",
+      "has_synced": true,
+      "path": "select/02_Into_the_Sun_feat._星野源,_Stephen_Malkmus_&_Pi_Ja_Ma_Superorganism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "01. 星野源 - ドラえもん",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/03_01._星野源_-_ドラえもん_星野源.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "02. 星野源 - ここにいないあなたへ",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/04_02._星野源_-_ここにいないあなたへ_星野源.lrc"
+    }
+  ]
+}
